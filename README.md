@@ -1,0 +1,1 @@
+This repository showcases a complete data cleaning and exploratory data analysis workflow using Python on a real-world Netflix dataset. The project focuses on preparing raw data, handling inconsistencies, and extracting insights about content composition, growth trends, genres, and countries.
